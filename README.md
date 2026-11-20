@@ -44,19 +44,31 @@ My approach combines practical problem-solving, continuous learning, and a genui
 ![UI Development](https://img.shields.io/badge/UI_Development-8A2BE2?style=for-the-badge)
 
 
-💻 Featured Projects
 
-AbiaCleanCity
-A waste management application designed to support digital waste reporting, user dashboards, and administrative report management.
+💻 FEATURED PROJECTS
 
-SmartTask Pro
+Here are some of the projects I've worked on, combining practical problem-solving with hands-on development.
+
+🏙️ [AbiaCleanCity](https://github.com/Ucokike18/AbiaCleancity-App)
+A waste management platform featuring authentication, user dashboards, waste reporting, administrative management, and paginated reports.
+
+`JavaScript` `Node.js` `Express` `MongoDB`
+
+📋 [SmartTask Pro](https://github.com/Ucokike18/smartTask-Pro)
 A task management application focused on organising tasks and improving productivity.
 
-MOVO Fuel Finder
-A project focused on helping users discover fuel availability and relevant fuel information.
+`JavaScript` `Frontend Development`
 
-Personal Portfolio
-A space to showcase my development journey, projects, and technical experience.
+⛽ [MOVO Fuel Finder](https://github.com/Ucokike18/MOVO-fuel-finder--3MTT-)
+A 3MTT capstone project designed to help users find fuel while travelling, especially in unfamiliar locations.
+
+`HTML` `Web Development`
+
+#### 🌐 [Personal Portfolio](https://github.com/Ucokike18/Personal-Portfolio)
+A personal portfolio project showcasing my development journey, skills, and work.
+
+`CSS` `Web Design`
+
 
 ---
 
